@@ -1,0 +1,32 @@
+.recipies {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  /* background: white; */
+  align-items: center;
+  min-width: 40%;
+}
+
+.w3-padding-large {
+  padding: 12px 24px !important;
+      padding-top: 12px;
+      padding-right: 24px;
+      padding-bottom: 12px;
+      padding-left: 24px;
+}
+.w3-opacity-min {
+  opacity: 0.75;
+}
+.w3-round, .w3-round-medium {
+  border-radius: 4px;
+}
+.w3-padding-large {
+  padding: 12px 24px !important;
+}
+.w3-col, .w3-half, .w3-third, .w3-twothird, .w3-threequarter, .w3-quarter {
+  float: left;
+  width: 100%;
+}
